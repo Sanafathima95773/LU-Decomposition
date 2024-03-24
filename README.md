@@ -21,6 +21,20 @@ print L for L matrix and print U for U matrix
 STEP 5:
 End of program
 ```
+```
+(ii)To find the LU Decomposition of a matrix
+STEP 1:
+Import the numpy module to use the built-in functions for calculation
+STEP 2:
+from scipy.linalg module import lu_factor() and lu_solve() to find lu decomposition of the matrix
+STEP 3:
+get input from the user
+STEP 4:
+apply lu_factor() and lu_solve() functions to get the answer
+STEP 5:
+End of program
+```
+
 ## Program:
 (i) To find the L and U matrix
 ```
